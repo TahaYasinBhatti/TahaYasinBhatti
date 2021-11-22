@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Taha Yasin Bhatti, I am an Electrical Engineer with my niche in Artificial Intelligence mine github user name is @TahaYasinBhatti. Follow me for cOOL Porjects
+- 👋 Hi, I’m Taha Yasin Bhatti, I am an Electrical Engineer with my niche in Artificial Intelligence mine github user name is @TahaYasinBhatti. Follow me for cOOL Projects
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision and Robotics
 - 🌱 I’m currently learning doing mine Masters in Data Science (FAST-NUCES) and working as ML Engineer at Survey Auto
 - 💞️ I’m looking to collaborate on the Research Based Projects on AI, Medical Imaging, AI based Robotics etc.
